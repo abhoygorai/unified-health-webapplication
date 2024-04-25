@@ -14,17 +14,3 @@ search_query = st.text_input("",
                              placeholder="🔍 Search...",
                              key="search_input",
                              )
-
-
-st.sidebar.markdown("Page 3 🎉")
-
-#sidebar for navigation
-# with st.sidebar:
-#     selected = option_menu('Multiple Disease Prediction System',
-
-#                            ['Diabetes Prediction',
-#                             'Heart Disease Prediction',
-#                             'Parkinsons Prediction'],
-#                            menu_icon='hospital-fill',
-#                            icons=['activity', 'heart', 'person'],
-#                            default_index=0)
