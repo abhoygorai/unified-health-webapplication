@@ -48,5 +48,10 @@ To contribute to this repository, follow these steps:
    git push -u origin main
    ```
 
+
+app.py is the streamlit app code. run the command "pip install -r requirements.txt" to install the required dependencies for the streamlit app.
+
+You may need to install additional libraries for running the jupyter notebooks.
+
 ## License
 [MIT License](LICENSE)
